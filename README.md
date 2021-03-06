@@ -1,1 +1,1 @@
-# wikipediaAPI
+# rhulog.wikipediaAPI
